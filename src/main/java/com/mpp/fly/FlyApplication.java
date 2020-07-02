@@ -3,6 +3,9 @@ package com.mpp.fly;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author wuxinjie
+ */
 @SpringBootApplication
 public class FlyApplication {
 
